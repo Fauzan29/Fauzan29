@@ -2,7 +2,10 @@
 - 👀 I’m interested in front end web developer
 - 🌱 I’m currently learning front end dan back end 
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+- 📫 How to reach me :
+- twitter : @fauzanmubarok_
+- instagram : @fauzanmubarok_
+
 
 <!---
 Fauzan29/Fauzan29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
