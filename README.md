@@ -1,6 +1,6 @@
 - 👋 Hi, My Name Muhammad Fauzan Budi Mubarok / @Fauzan29
 - 👀 I’m interested in front end web develop
-- 🌱 I’m currently learning front end dan back end , I hope i can be a full stack develover
+- 🌱 I’m currently learning front end dan back end , I hope i can be a full stack developer
 - 📫 How to reach me :
 - twitter : @fauzanmubarok_
 - instagram : @fauzanmubarok_
