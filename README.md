@@ -5,7 +5,7 @@
 - twitter : @fauzanmubarok_
 - instagram : @fauzanmubarok_
 - email : fauzan.ipa5@gmail.com
-- Linkedln : https://www.linkedin.com/in/muhammad-fauzan-budi-mubarok-45b67a139/
+- Linkedln : https://www.linkedin.com/in/muhammad-fauzan-budi-mubarok/
 
 <!---
 Fauzan29/Fauzan29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
