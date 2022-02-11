@@ -4,6 +4,7 @@
 - 📫 How to reach me :
 - twitter : @fauzanmubarok_
 - instagram : @fauzanmubarok_
+- FB: Muhammad Fauzan Mubarok
 - email : fauzan.ipa5@gmail.com / fauzanbudimubarok@gmail.com
 - Linkedln : https://www.linkedin.com/in/muhammad-fauzan-budi-mubarok/
 
